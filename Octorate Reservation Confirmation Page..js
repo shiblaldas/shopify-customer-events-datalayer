@@ -2,7 +2,7 @@
   dataLayer.push({ ecommerce: null }); // Clear previous ecommerce data
 
   dataLayer.push({
-    event: "spurchase",
+    event: "purchase",
     ecommerce: {
       transaction_id: octorateReservation.refer,
       value: octorateReservation.total,
