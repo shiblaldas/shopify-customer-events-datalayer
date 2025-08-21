@@ -1,4 +1,4 @@
- In your Shopify account go to Settings (bottom left) -> Customer events -> Add custom pixel -> Give the pixel a clear name -> Paste the following code
+ In your Shopify account go to Settings (bottom left) -> Customer events -> Add custom pixel -> Give the pixel a clear name -> Paste the [following code](https://github.com/shiblaldas/shopify-customer-events-datalayer/blob/a1e01661f03c988202a78b5e9841ab7aa2148f30/Shopify%20Ecommerce%20DataLayer%20Customer%20Events.js)
 
  Under Customer Privacy click Permission and select "Not Required"
  
