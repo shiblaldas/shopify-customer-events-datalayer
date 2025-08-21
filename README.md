@@ -3,5 +3,5 @@
  Under Customer Privacy click Permission and select "Not Required"
  Under Data sale click Permission and select "Data collected does not qualify as data sale"
 
- 
+ Don't forget to replace GTM-XXXXXXXX with correct Google Tag Manager ID.
  At the top of the screen you can now save, after which you can activate the pixel by clicking "Connect"
